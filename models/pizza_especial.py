@@ -27,4 +27,4 @@ class PizzaEspecial(Pizza):
                 
         print(f'Tamanho: {self.tamanho}')
         print(f'Valor da pizza: {self.valor()}')
-        print(f'Valor com adicionais: ')
+        
