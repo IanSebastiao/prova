@@ -26,4 +26,5 @@ class PizzaEspecial(Pizza):
                 print('Nenhum adicional')
                 
         print(f'Tamanho: {self.tamanho}')
-        print(f'Valor: {self.valor()}')
+        print(f'Valor da pizza: {self.valor()}')
+        print(f'Valor com adicionais: ')
